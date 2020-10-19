@@ -1,5 +1,6 @@
 //= link alchemy/admin/all.css
 //= link alchemy/admin/all.js
+//= link alchemy/admin.js
 //= link alchemy/preview.js
 //= link alchemy/menubar.css
 //= link alchemy/menubar.js
